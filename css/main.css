@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 100%;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -41,17 +41,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-.bg {
-  /* The image used */
-  background-image: url("https://i.pinimg.com/originals/6c/17/58/6c175818b346b9ab8c356664410d0fec.jpg");
-
-  /* Full height */
-  height: 50%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
