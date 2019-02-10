@@ -14,7 +14,7 @@ Sankalan da, invited me to a fun game, where I talk about 10 movies of my like, 
 
 The one I want to talk today about is 'The Big Lebowski'. This particular one shaped the way I see the world a lot. The first time I tried to watch it was in 2008. I was in 12th then. I did not understand it much, and got bored after roughly half an hour and then switched it off. I understood that it's a funny movie, but I was not getting exactly why it is funny. I again tried it in 2011, 3 years down the line; I was in 3rd year of college then. This time I loved it. A lot of things made sense. I was still not very aware of Coen Brothers. I was not aware of Raising Arizona or Miller's Crossing. I was still one of those who follow Nolan and know nothing beyond him.
 
-![Alt text](https://i.pinimg.com/originals/6c/17/58/6c175818b346b9ab8c356664410d0fec.jpg)
+![Alt text](https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/51641753_2208962396019022_5614819894341140480_n.jpg?_nc_cat=108&_nc_ht=scontent-bom1-1.xx&oh=0530aba8b9697049c6712fbef51c9903&oe=5CF4D1F7)
 
 This movie has a multitude of interpretations, just like life. It's a movie about taking it easy. It's also a movie about friendships. Why is it not a movie about bowling as well?
 
