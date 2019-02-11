@@ -10,6 +10,8 @@ Now, why will I talk about a fairytale converted flop movie, that too more than 
 
 One obvious reason is it’s the starting of that era where present day Bollywood is still trying to reach, creation of an ecosystem which makes, nurtures and watches movies which are not ‘Masala’, movies which do not have item songs, which do not have star cast even.
 
+![Alt text](https://i.pinimg.com/originals/6c/17/58/6c175818b346b9ab8c356664410d0fec.jpg)
+
 And perhaps, dare to step beyond the clichéd valentine formula of love, where love exists between only two young chaps in their early twenties, and that love achieves 'success' through a marriage, which initially the families opposed but eventually agreed. 'Paheli' & 'Main, meri patni aur woh' in 2005, 'Kabhi Alvida Naa Kehna' in 2006, 'Nishabd' in 2007 are but a few example of this wave, which I believe, still struggling to fight a premature death, and a 'Prem Ratan Dhan Payo' still emerged in 2015, with an exception of 'Highway' in 2014.
 
 Another reason in existence and portrayal of Rajasthani culture a little bit. No, it's not a documentary on how people live there, but I liked the subtle presence of Rajasthani livelihood, and yes, the costumes. Not many movies are made about Rajasthan, certainly not about the poor peasants who did not live in those enormous 'Haveli's. I believe we should, and Rajasthan has much more to offer to the movie industry in Bombay, since they don't practically have one themselves.
