@@ -16,7 +16,7 @@ Failed! I failed, that too miserably. It was more unimpressive than listening to
 Thus, I surrendered. Suddenly I was sympathetic, very much sympathetic to him. Although I could not understand the psycho-neuro-traumatic disease; the depression he was suffering from, which I do now, I was very sorry about the fact that nobody appreciated him in his lifetime. He, much like some other heroes (or, soldiers?) of human history, was respected posthumously. 
 Fast forward 17 years, I finally could see THE Starry Night. 
 
-![Poster of The Big Lebowski](./Resources/Arindam.png)
+![Poster of The Big Lebowski](../Resources/Arindam.png)
 
 The first reaction was odd. Which was about the size of the painting. I somehow always thought it to be about the size of an A4 paper. (Who looks up the sizes of paintings in the internet anyway?). 
 Then there was this aura. I did not have any idea how a 100 years old painting can be this much shining, but it literally took my breath away. I stood up there for exactly 5 minutes. Just kept watching it. Scooted about the room checking out other paintings, and then came back to it, multiple times (Modhuro Tomar sesh je naa paai, prohor holo sesh. Bhubono jure roilo lege, anondo aabesh)
