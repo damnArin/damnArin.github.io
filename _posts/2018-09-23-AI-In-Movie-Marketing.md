@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI in Movie Marketing"
-date: 2018-19-23
+date: 2018-09-23
 ---
 
 

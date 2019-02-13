@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mahabaleshwar-an escapade"
-date: 2018-19-12
+date: 2018-09-12
 ---
 
 
