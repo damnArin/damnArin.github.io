@@ -6,11 +6,8 @@ date: 2019-02-15
 
 #by Lola Marsh
 I know I stand in line until you think you have the time
-
 To spend an evening with me
-
 And if we go some place to dance I know that there's a chance
-
 You won't be leaving with me
 Then afterwards we drop into a quiet little place
 And have a drink or two
