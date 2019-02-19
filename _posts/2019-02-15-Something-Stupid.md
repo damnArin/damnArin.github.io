@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Something Stupid"
 date: 2019-02-15
 ---
