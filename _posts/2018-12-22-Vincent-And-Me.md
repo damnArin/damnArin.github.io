@@ -12,7 +12,7 @@ Vincent Van Gogh was that rock star of art to me at that time.
 The artist who suffered from depression, mental issues, and produced brilliant paintings (obviously artists can’t have a normal life with wife and kids, they’ll become ‘us’ then). 
 
 
-<img style="float: left;" src="../../../../../Resources/Vincent_And_Me_2.jpg">
+<img style="float: left;" src="../../../../../Resources/Vincent_And_Me_2.jpg" width="150">
 
 
 ![Poster of The Big Lebowski](../../../../../Resources/Vincent_And_Me_2.jpg)
