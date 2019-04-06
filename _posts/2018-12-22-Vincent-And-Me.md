@@ -12,10 +12,10 @@ Vincent Van Gogh was that rock star of art to me at that time.
 The artist who suffered from depression, mental issues, and produced brilliant paintings (obviously artists can’t have a normal life with wife and kids, they’ll become ‘us’ then). 
 
 
-<img style="float: left;" src="../../../../../Resources/Vincent_And_Me_2.jpg" width=100%>
+<img style="float: left;" src="../../../../../Resources/Vincent_And_Me_2.jpg">
 
 
-![Poster of The Big Lebowski](../../../../../Resources/Vincent_And_Me_2.jpg)
+![Poster of The Big Lebowski](../../../../../Resources/Vincent_And_Me_2.jpg){ width=100%}
 
 
 The best part of Van Gogh’s painting (to the 10 years old me) was that they were extremely simple. They didn’t have any hidden meaning, any message, any ism (a certain Mr. Picasso was part of the curriculum as well). It was just a picture, a picture at which you can look (Impressionist was still an unknown word to me). 
