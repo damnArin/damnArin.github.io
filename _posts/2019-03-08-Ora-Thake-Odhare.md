@@ -6,4 +6,6 @@ The Bengali people were (and are) divided into Ghoti & Bangal, depending on whic
 
 But, after partition, that whole refugee issue took off. Calcutta was burdened by an extremely big number of people which it was not prepared for, new areas started to develop just because of refugee re-habilitation e.g. Jadavpur and areas close by. 
 
-![Poster of Ora Thake Odhare](../../../../../Resources/OraThakeOdhare.jpg)
+{::nomarkdown}
+<img src=../../../../../Resources/OraThakeOdhare.jpg width=100%/>
+{:/}
