@@ -9,4 +9,4 @@ Google India creates a video about Sanghamitra Bandyopadhyay, Director of ISI Ko
 
 Yours truly, along with batchmates of MTech CS, 2013 - 15 can be seen at 0:55 in the video. :P
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lGvCQnA7oto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/lGvCQnA7oto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
