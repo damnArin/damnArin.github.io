@@ -9,6 +9,6 @@ Google India creates a video about Sanghamitra Bandyopadhyay, Director of ISI Ko
 
 Yours truly, along with batchmates of MTech CS, 2013 - 15 can be seen at 0:55 in the video. :P
 
-YOUTUBE.COM
-Women in STEM: Story of Sanghamitra Bandyopadhyay
-Meet Sanghamitra, Director at the Indian Statistical Institute. Sanghamitra is the recipient of the…
+https://www.youtube.com/watch?v=lGvCQnA7oto
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lGvCQnA7oto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[in Youtube](https://www.youtube.com/watch?v=zEUTR2EEEtc)
