@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "In Other News"
 date: 2019-03-15
 ---

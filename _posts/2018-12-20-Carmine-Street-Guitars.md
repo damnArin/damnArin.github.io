@@ -1,5 +1,6 @@
 ---
 layout: post
+comments : true
 title: "Carmine Street Guitars"
 date: 2018-12-20
 ---

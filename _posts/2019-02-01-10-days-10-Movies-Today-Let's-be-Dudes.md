@@ -1,5 +1,6 @@
 ---
 layout: post
+comments : true
 title: "Today it's all about the Big Lebowski"
 date: 2019-02-01
 ---

@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+title: "Californication"
+date: 2019-03-08
+---
 
 
 Californication, Season 1. 

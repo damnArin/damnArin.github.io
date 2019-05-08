@@ -1,3 +1,11 @@
+---
+layout: post
+comments: true
+title: "Paheli"
+date: 2019-01-27
+---
+
+
 Do you choose love or do you choose rules? Decision making is hard, for most of us, and maybe not most of the times.
 
 Sankalan da asked me take part in a fun game where I am supposed to talk about 10 movies (in 10 days) in my FB timeline and as the first movie, I'll talk about one which I watched recently, after putting it into my watchlist for almost 14 years.

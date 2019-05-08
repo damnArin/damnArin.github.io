@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "RaajNeeti"
 date: 2019-03-20
 ---

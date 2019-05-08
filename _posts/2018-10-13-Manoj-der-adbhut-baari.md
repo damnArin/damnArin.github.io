@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Manoj der adbhut baari"
 date: 2018-10-13
 ---
