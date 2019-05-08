@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "AI in Movie Marketing"
 date: 2018-09-23
 ---
