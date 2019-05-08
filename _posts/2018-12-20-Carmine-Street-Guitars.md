@@ -15,4 +15,8 @@ Trailers of the movie:
 2. [https://www.youtube.com/watch?v=nPeCigpIpEc](https://www.youtube.com/watch?v=nPeCigpIpEc)
 3. [https://www.youtube.com/watch?v=io5gcFj9Ads](https://www.youtube.com/watch?v=io5gcFj9Ads) (not trailer, but a nice one to watch)
 
+{::nomarkdown}
+<img src=../../../../../Resources/CarmineStreet.jpg width=100%/>
+{:/}
+
 Photo : [Siddharth Patel](https://www.facebook.com/siddharthpatel933)
