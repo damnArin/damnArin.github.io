@@ -9,6 +9,7 @@ layout: default
 			<!-- Post content -->
 			<div class="post">
 			  {{ content }}
+			  {% include share.html %}
 			</div>
 			<!-- Post info -->
 			<div class="noteinfo">
@@ -16,11 +17,9 @@ layout: default
 			</div>
 
 			<hr>
-
-			{% include share-bar.html %}
-
+			hey
 			<hr>
-			
+
 			<!-- Post comments -->
 			<div class="notecomments">
 				{% include disqus.html %}	 

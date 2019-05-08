@@ -13,3 +13,7 @@ There are other gaps (actually Mariana trenches) in the storyline e.g. Bill neve
 And, if the series is so-f'ing-bad, why am I spending my time as well as others' to talk about it?
 
 Well, because I was trying to enlist a set of 10 movies, which is a fun game Sankalan da (who calls himself Collection, the literal English translation of his name, sometimes) invited me to join in, and I thought, why can't TV Series become a part of the sojourn? (Is the word 'series' singular or plural?)
+
+And also I have a soft corner for writers. 
+
+And also the DIALOGUE. Whosoever  
