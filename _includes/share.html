@@ -24,6 +24,12 @@
         {% include social/linkedin.svg %}
       </a>
     </li>
+    <li class="facebook">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
+        {% include social/facebook.svg %}
+      </a>
+    </li>
+
   </ul>
 </div>
 
@@ -66,4 +72,9 @@
 .sharebuttons .linkedin svg {
   fill: #0077B5;
 }
+
+.sharebuttons .facebook svg {
+  fill: #0077B5;
+}
+
 </style>
