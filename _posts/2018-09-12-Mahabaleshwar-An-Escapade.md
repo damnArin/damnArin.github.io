@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Mahabaleshwar-an escapade"
 date: 2018-09-12
 ---
