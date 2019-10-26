@@ -1,5 +1,6 @@
 name: Arindam Pal, terrible cook
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: http://damnarin.github.io
 plugins:
   - jekyll-sitemap
