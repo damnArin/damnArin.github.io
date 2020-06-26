@@ -1,3 +1,11 @@
+---
+layout: post
+comments: true
+title: "Gulabo Sitabo - as I felt"
+date: 2020-06-26
+---
+
+
 This write up is a reaction to reading Bhardwaj Rangan's critique of Gulabo Sitabo. He mentioned about three things in his review. One, that the men in the movie are too 'thin' as characters. Two, the women are stronger by the same measure and three, the cinematography by Avik Mukhopadhyay is brilliant. 
 
 Bhardwaj Sir himself taught me that a film critique should be built around one's own pesona. Every single line written (or spoken) in a film review will have an invisible "In my opinion" slammed at the beginning of the sentence and that precisely gave me the strength to voice my thoughts. 
