@@ -7,10 +7,61 @@ date: 2020-06-28
 
 Did this moment ever come to you when you have discovered some new music and sort of jumped from the chair to say - "Fuuuuuck! This. is. exactly. what. I. want."? That moment came to me 5 days back when I discovered Bhanga Bangla. 
 
-I was looking for something to listen to while working and very casually searched Saavn. The title '4 AM at Dhaka' gave a vibe that it could be cool. And boy oh boy! It was some experience. 
+I was looking for something to listen to while working and very casually searched Spotify. The title '4 AM In Dhaka' gave a vibe that it could be cool. And boy oh boy! It was some experience. 
 
 Let me give you a little context about the band. The band has 3 members, Ivory Shakur, Young Prince and 41X. They all are Bangladeshi - Americans and because they are born and brought up somewhere else other than Bongo, they don't speak Bangla very well. Thus the name of the band. Bhanga mean broken in Bangla. 
 
+They expertise in mumble rap. Following is a quick definition from Wikipedia.
+
+"Mumble rap is a loosely defined microgenre of hip hop that largely spread on the online audio distribution platform SoundCloud in the 2010s. The term implies a mumbling or unclear vocal delivery by artists, and may generally refer to rappers who do not share the genre's typical emphasis on lyricism"
+
+The descrption of [this video](https://www.youtube.com/watch?v=VuRSOnrwPQA) gives a brief understanding. 
+
+"The Evolution Of Mumble Rap.
+
+Mumble rap - the most recent art form of rapping - or arguably the art of not rapping. Rather than rapping clearly, eloquently, articulately and with prowess and esteem, mumble rappers string occasional words together, like “cat”, “sat” and if you’re lucky, “mat”. And mumble rappers tend to do just that, they mumble.
+#hiphopuniverse #evolutionofhiphop 
+
+Hip-hop has arguably been the best genre of music in the past two decades. As hip-hop maintains its title, a lot has changed about the genre, such as the lyrics. Hip-hop has two phases, old school and new school each of which give off a different vibe.
+
+Old School “Hip-Hop” has music based prevalently on African American culture. Artists such as Tupac, Biggie Smalls, and Eazy-E often rap about the struggles of growing up in a racialized environment and the work they put in to get where they are today.
+
+In popular songs such as “Changes” by Tupac and “Juicy” by Biggie Smalls, the artists explain how they went from “negative to positive” as Biggie put it.
+
+Old school hip-hop is still popular today and is regarded as “classic” by many hip-hop fans.
+
+“New school” hip-hop has different types of lyrics. Rappers from today’s generation sing typically about girls, money, and cars they have. Some even sing about how they do drgs, drink alchl, and party which sets a bad example for some listeners. Some of these rappers today did not have it as hard as rappers back in the old days. Also Hip-hop artists now are racially diverse, so African American culture is not necessarily found in music today.
+
+People who grew up listening to Tupac, Biggie, Eazy-E, and so on typically do not enjoy hip-hop in today’s era. Songs written when rap was introduced were lyrically better because rappers were able to tell a story using words that rhyme and flow.
+
+Some songs are also more appealing to fans because they can relate to the struggles their favorite rappers faced.
+
+People of this generation are used to listening to new school hip-hop which is the most played genre on the radio. These same fans reject old school Hip-Hop as a part of the music genre. There are even rappers who know nothing about the most influential Hip-Hop artists.
+
+Growing up listening to Eminem has caused me to fall in love with him as an artist. He introduced me to Hip-Hop. But I noticed a change in the music industry. Artists wanted to be part of the mainstream industry and they had to change their music to fit into the mainstream category.
+
+Because of new artists in hip-hop, many lessen known artists are rarely noticed. These artists are said to be “underground.” Underground rappers usually do not make it big because they have music related to the messages embodied by old school hip-hop artists would say.
+
+Some people think old school Hip-Hop is better than new school Hip-Hop. And there are many people who prefer underground Hip-Hop to mainstream Hip-Hop. What do you think?"
+
+Since the lyrics are not that important, the prime focus goes on towards the delivery and music arrangement. But even if the lyrics are not important, passing the message is still important. And they do it really well with only a few key-words. 
+
+They have received both extreme love and extreme criticism from general people. Extreme love from people who understood / didn't care about the lyrics. Extreme hate from people who didn't like the lyrics and are more concerned about them being linked to Illuminati, Satan worship etc. 
+
+
+Personally, I think these are a bunch of extremely talented musician. And the reason for me saying is the diversity in their music. All their songs are very different from each other. 
+
+The following are their songs that I liked
+
+1. Jhamela Nai
+2. 4 AM in Dhaka
+3. Matha ta Fatabo
+4. Brown like Priyanka
+5. Borof
+6. Natok
+7. The Village
+
+I didn't like their latest release, Rani. Also, the village is an English rap with Bangla words sprinkled on it. 
 
 
 সমস্যা নাই
