@@ -63,6 +63,10 @@ The following are their songs that I liked
 
 I didn't like their latest release, Rani. Also, the village is an English rap with Bangla words sprinkled on it. 
 
+Media presence:
+1. 
+2. funny fake interview: [https://bengalbeats.com/interview-with-ivory-shakur](https://bengalbeats.com/interview-with-ivory-shakur/) 
+
 
 সমস্যা নাই
 ঝামালা নাই 
