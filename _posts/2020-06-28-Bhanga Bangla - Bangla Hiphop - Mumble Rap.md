@@ -44,12 +44,16 @@ Because of new artists in hip-hop, many lessen known artists are rarely noticed.
 
 Some people think old school Hip-Hop is better than new school Hip-Hop. And there are many people who prefer underground Hip-Hop to mainstream Hip-Hop. What do you think?"
 
-Since the lyrics are not that important, the prime focus goes on towards the delivery and music arrangement. But even if the lyrics are not important, passing the message is still important. And they do it really well with only a few key-words. 
+Since the lyrics are not that important, the prime focus goes on towards the delivery and music arrangement. But even if the lyrics are not important, passing the message is still important. And they do it really well with only a few key-words. Rap is still poetry and that game is strong with them.
 
 They have received both extreme love and extreme criticism from general people. Extreme love from people who understood / didn't care about the lyrics. Extreme hate from people who didn't like the lyrics and are more concerned about them being linked to Illuminati, Satan worship etc. 
 
+Personally, I think these are a bunch of extremely talented musicians. And the reason for me saying is the diversity in their music. All their songs are very different from each other. They of course, stay in the genre of mumble rap, but do change the story multiple times. They've created the group only for 2 years. At least, the first YouTube upload was in 2018. And in this timespan they've produced 9 songs, out of them I liked 8. Not just liked, I loved them. That's insane for somebody like me who does not have a fixed set of favorite singers. Probably that happens when you understand what you are singing and you just don't sing someone else's writing for money.
 
-Personally, I think these are a bunch of extremely talented musician. And the reason for me saying is the diversity in their music. All their songs are very different from each other. 
+The POV which I took while listening to them is that they always say things which they experience. And those take into account the fact all the hardships immigrants have to go through. Remember, that these people who migrated from Bangladesh to USA mostly are not very rich compared to their American neighbors. They are still richer than their countrymen but their children, the next generation of those immigrants don't care about that and are looking for an identity. They also are victims of racism much and thus they speak against that also. 
+
+If you take a random very stressed person and track down his/her thought process you'll understand how they match with Bhanga Bangla's lyrics. A stressed person will sometimes be numb to more stress, sometimes will try to escape. Sometimes s/he will curse an imaginary and vague enemy, sometimes the whole damn society. Those curses will also not have any specific meanings in many cases. They'll just be random badmouthing to the enemy's family members or women in his family.
+
 
 The following are their songs that I liked
 
