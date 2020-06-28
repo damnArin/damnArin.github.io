@@ -15,7 +15,7 @@ They expertise in mumble rap. Following is a quick definition from Wikipedia.
 
 "Mumble rap is a loosely defined microgenre of hip hop that largely spread on the online audio distribution platform SoundCloud in the 2010s. The term implies a mumbling or unclear vocal delivery by artists, and may generally refer to rappers who do not share the genre's typical emphasis on lyricism"
 
-The descrption of [this video](https://www.youtube.com/watch?v=VuRSOnrwPQA) gives a brief understanding. 
+The descrption of [this video](https://www.youtube.com/watch?v=VuRSOnrwPQA) gives a brief understanding. Let me put the whole thing below.
 
 "The Evolution Of Mumble Rap.
 
@@ -48,14 +48,14 @@ Since the lyrics are not that important, the prime focus goes on towards the del
 
 They have received both extreme love and extreme criticism from general people. Extreme love from people who understood / didn't care about the lyrics. Extreme hate from people who didn't like the lyrics and are more concerned about them being linked to Illuminati, Satan worship etc. 
 
-Personally, I think these are a bunch of extremely talented musicians. And the reason for me saying is the diversity in their music. All their songs are very different from each other. They of course, stay in the genre of mumble rap, but do change the story multiple times. They've created the group only for 2 years. At least, the first YouTube upload was in 2018. And in this timespan they've produced 9 songs, out of them I liked 8. Not just liked, I loved them. That's insane for somebody like me who does not have a fixed set of favorite singers. Probably that happens when you understand what you are singing and you just don't sing someone else's writing for money.
+Personally, I think these are a bunch of extremely talented musicians. And the reason for me saying is the diversity in their music. All their songs are very different from each other. They of course, stay in the genre of mumble rap, but do change the story multiple times. They've created the group only for 2.5 years. At least, the first YouTube upload was in Jan, 2018. And in this timespan they've produced 9 songs, out of them I liked 8. Not just liked, I loved them. That's insane for somebody like me who does not have a fixed set of favorite singers. Probably that happens when you understand what you are singing and you just don't sing someone else's writing for money. Ivory Shakur used to go by the name Gamble earlier and used to rap in English. His talent was apparent there as well. That's why it feels like each of the songs are very carefully crafted, and has its own flavor. It doesn't feel like noob music at all, because they're actually not noobs.
 
 The POV which I took while listening to them is that they always say things which they experience. And those take into account the fact all the hardships immigrants have to go through. Remember, that these people who migrated from Bangladesh to USA mostly are not very rich compared to their American neighbors. They are still richer than their countrymen but their children, the next generation of those immigrants don't care about that and are looking for an identity. They also are victims of racism much and thus they speak against that also. 
 
 If you take a random very stressed person and track down his/her thought process you'll understand how they match with Bhanga Bangla's lyrics. A stressed person will sometimes be numb to more stress, sometimes will try to escape. Sometimes s/he will curse an imaginary and vague enemy, sometimes the whole damn society. Those curses will also not have any specific meanings in many cases. They'll just be random badmouthing to the enemy's family members or women in his family.
 
 
-The following are their songs that I liked, in no particular order
+The following are their songs that I liked, in no particular order, with YouTube links.
 
 1. [Jhamela Nai](https://www.youtube.com/watch?v=GQquJmGTAaE)
 2. [4 AM in Dhaka](https://www.youtube.com/watch?v=ryauRkqFbg4)
@@ -65,7 +65,7 @@ The following are their songs that I liked, in no particular order
 6. [Natok](https://www.youtube.com/watch?v=GQquJmGTAaE)
 7. [The Village](https://www.youtube.com/watch?v=U51yciVvJq4)
 
-I didn't like their latest release, Rani. Also, the village is practically an English rap with Bangla words sprinkled on it. 
+I didn't like their latest release, [Rani](https://www.youtube.com/watch?v=t3alLp0y3bc). Also, the village is practically an English rap with Bangla words sprinkled on it. 
 
 Listen all their songs in [Spotify](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK?si=uyqJ8ttTReCJ6fpDd8FsCQ).
 
