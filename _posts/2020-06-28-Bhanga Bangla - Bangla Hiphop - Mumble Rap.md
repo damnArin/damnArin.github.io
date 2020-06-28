@@ -9,7 +9,9 @@ Did this moment ever come to you when you have discovered some new music and sor
 
 I was looking for something to listen to while working and very casually searched Saavn. The title '4 AM at Dhaka' gave a vibe that it could be cool. And boy oh boy! It was some experience. 
 
-Let me give you a little context about the band. The band has 3 members, Ivory Shakur, Young Prince and 41X. They all are Bangladeshi - Americans and because they are born and brought up somewhere else other than Bongo, they don't speak Bangla very well. Thus the name of the band. 
+Let me give you a little context about the band. The band has 3 members, Ivory Shakur, Young Prince and 41X. They all are Bangladeshi - Americans and because they are born and brought up somewhere else other than Bongo, they don't speak Bangla very well. Thus the name of the band. Bhanga mean broken in Bangla. 
+
+
 
 সমস্যা নাই
 ঝামালা নাই 
