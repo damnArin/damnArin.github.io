@@ -65,12 +65,19 @@ The following are their songs that I liked, in no particular order
 6. [Natok](https://www.youtube.com/watch?v=GQquJmGTAaE)
 7. [The Village](https://www.youtube.com/watch?v=U51yciVvJq4)
 
-I didn't like their latest release, Rani. Also, the village is an English rap with Bangla words sprinkled on it. 
+I didn't like their latest release, Rani. Also, the village is practically an English rap with Bangla words sprinkled on it. 
+
+Listen all their songs in [Spotify](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK?si=uyqJ8ttTReCJ6fpDd8FsCQ).
 
 Media presence:
 1. https://timesofindia.indiatimes.com/entertainment/english/music/news/la-hip-hop-crew-bhanga-bangla-outs-their-new-single-borof/articleshow/69903981.cms
-2. funny fake interview: [https://bengalbeats.com/interview-with-ivory-shakur](https://bengalbeats.com/interview-with-ivory-shakur/) 
+2. funny fake interview, fans will like it: [https://bengalbeats.com/interview-with-ivory-shakur](https://bengalbeats.com/interview-with-ivory-shakur/) 
 3. https://hifipublic.com/2019/07/03/bhanga-bangla-on-sony-music-are-you-happy-or-terrified/
+
+Surprisingly, I didn't spot any serious discussion on their creations online. Most of the discussions are either cussing them for keeping a different hairstyle, Illuminati and not understanding the lyrics. Either that, or some reaction videos where some say it's good and some say it's not. Although, IMHO, their lyrics are extremely good, hits all the right spots and there should be a serious critique of these creations rather than just brushing them off as something which you'll listen to only when you are high. 
+
+I thought in this case, I'll go through some of their songs and will try to explain the way I understood them line by line. As of now, I've just penned down the lyrics of the song that I liked most. It's something difficult given it's mumble and their Bangla is actually, in the true sense of the word, 'Bhanga'. So, takes some time to understand what actually they meant and sometimes I have to look up to the English translation to get it. 
+
 
 সমস্যা নাই
 ঝামালা নাই 
