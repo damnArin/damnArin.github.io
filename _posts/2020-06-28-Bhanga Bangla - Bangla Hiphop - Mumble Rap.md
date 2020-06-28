@@ -55,15 +55,15 @@ The POV which I took while listening to them is that they always say things whic
 If you take a random very stressed person and track down his/her thought process you'll understand how they match with Bhanga Bangla's lyrics. A stressed person will sometimes be numb to more stress, sometimes will try to escape. Sometimes s/he will curse an imaginary and vague enemy, sometimes the whole damn society. Those curses will also not have any specific meanings in many cases. They'll just be random badmouthing to the enemy's family members or women in his family.
 
 
-The following are their songs that I liked
+The following are their songs that I liked, in no particular order
 
-1. Jhamela Nai
-2. 4 AM in Dhaka
-3. Matha ta Fatabo
-4. Brown like Priyanka
-5. Borof
-6. Natok
-7. The Village
+1. [Jhamela Nai](https://www.youtube.com/watch?v=GQquJmGTAaE)
+2. [4 AM in Dhaka](https://www.youtube.com/watch?v=ryauRkqFbg4)
+3. [Matha ta Fatabo](https://www.youtube.com/watch?v=lR0lJ_RjuSk)
+4. [Brown like Priyanka](https://www.youtube.com/watch?v=n2s06r9pzP4)
+5. [Borof](https://www.youtube.com/watch?v=RImj8tiE3LQ)
+6. [Natok](https://www.youtube.com/watch?v=GQquJmGTAaE)
+7. [The Village](https://www.youtube.com/watch?v=U51yciVvJq4)
 
 I didn't like their latest release, Rani. Also, the village is an English rap with Bangla words sprinkled on it. 
 
