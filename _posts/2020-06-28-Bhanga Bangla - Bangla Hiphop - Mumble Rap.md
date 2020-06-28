@@ -64,9 +64,9 @@ The following are their songs that I liked
 I didn't like their latest release, Rani. Also, the village is an English rap with Bangla words sprinkled on it. 
 
 Media presence:
-1. 
+1. https://timesofindia.indiatimes.com/entertainment/english/music/news/la-hip-hop-crew-bhanga-bangla-outs-their-new-single-borof/articleshow/69903981.cms
 2. funny fake interview: [https://bengalbeats.com/interview-with-ivory-shakur](https://bengalbeats.com/interview-with-ivory-shakur/) 
-
+3. https://hifipublic.com/2019/07/03/bhanga-bangla-on-sony-music-are-you-happy-or-terrified/
 
 সমস্যা নাই
 ঝামালা নাই 
