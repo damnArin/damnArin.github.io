@@ -232,60 +232,96 @@ Draws a boundary of Indian subcontinent from East to West.
 
 যেফের এর মতো তো গান গাই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: Xefer er moto to gaan gaai
 
-translation: From Bangladesh to Mumbai
+translation: I sing like Xefer.
 
-Explanation:
-
-
+Explanation: Xefer is a Bangladeshi female hiphop singer who sings in English.
 
 
-কথাটা কম, তুমি কে? কে? 
 
 কথাটা কম, তুমি কে? কে? 
 
-transliteration: Bangladesh theke to Mumbai
+কথাটা কম, তুমি কে? কে? 
 
-translation: From Bangladesh to Mumbai
+transliteration: 
+
+Kotha ta kom, tumi ke? (ke?)
+
+Kotha ta kom, tumi ke? (ke?)
+
+translation: 
+
+Shut your mouth, who are you?
+
+Shut your mouth, who are you?
 
 Explanation:
 
+This is how brown households shut their children up. This is an extremely common technique of scolding children and not paying attention to them just because they are younger and inexperienced. Teenagers are major victim of this kind of behavior and they themselves also learn to scold others like that.
 
-আমরা তো রাতে তো নাচছি
+আমরা তো রাতে তো নাচছি (নাচছি)
 
-শিশা আর গাঞ্জা তো খাচ্ছি 
+শিশা আর গাঞ্জা তো খাচ্ছি (খাচ্ছি)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+amra to rate to nachchhi (nachchhi)
+
+shisha aar ganja to khachchhi (khachchhi)
+
+translation: 
+
+We are dancing all night. 
+
+We are having sheesha and ganja.
 
 Explanation:
 
+He's again explaining the kind of life he goes through.
 
 
 আমাদের সবকিছু দামী, দামী 
 
-আমার মেয়ের বিয়ে তো চাই
+transliteration: 
 
-transliteration: Bangladesh theke to Mumbai
+amader sob kichhu daami (daami)
 
-translation: From Bangladesh to Mumbai
+translation: 
+
+Everything here is expensive.
 
 Explanation:
 
+This talks about the high living cost in big cities in USA. It's difficult to make a living there, more so if you are an immigrant not with a six-figure job.
 
+
+
+আমার মেয়ের বিয়ে তো চাই
 
 ওর আব্বু তো এমবিএ তো চাই 
 
 আমার তো এমবিএ নাই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+amar meyer biye to chai
+
+or abbu to MBA chaay
+
+amar to MBA naai
+
+translation: 
+
+My girlfriend wants to maary
+
+But her Abbu (father) wants (her husband to have) an MBA
+
+I don't have an MBA
 
 Explanation:
 
+The brown households have a lot of say in marriages of their children. Indian & BDeshi & Pakistani people still have the concept of arranged marriage very much and they do look for swanky jobs (at least financial stability) when they marry their daughters off.
 
 
 বুদ্ধি আর টাকাটা লম্বা 
