@@ -79,7 +79,7 @@ Surprisingly, I didn't spot any serious discussion on their creations online. Mo
 I thought in this case, I'll go through some of their songs and will try to explain the way I understood them line by line. As of now, I've just penned down the lyrics of the song that I liked most. It's something difficult given it's mumble and their Bangla is actually, in the true sense of the word, 'Bhanga'. So, takes some time to understand what actually they meant and sometimes I have to look up to the English translation to get it. 
 
 
-<h3>Verse of Ivory Shakur - </h3>
+<h1>Verse of Ivory Shakur - </h1>
 
 সমস্যা নাই
 
@@ -936,3 +936,9 @@ translation:
 
 No problem no worries (multiple times)
 
+
+<h1>Overall Comment</h1>
+
+Overall the song pleads the stress of an immigrant kid fighting for identity crises who is stuck between multiple cultures and is on a quest to find out who he is. Brown kids do not have very close relationships with their parents. More so if they are poor. Those kids don't really know how to help the family even if they want to. That suppressed stress is beautifully portraied in the song. 
+
+Young Prince is superb.  His verse was extremely good. I didn't get anything in 41X's verse. I don't know if I am misreading it. Ivory Shakur was the hidden rhythm which bound the whole thing together. I am yet to think about the video representation they produced and write my comments on them. 
