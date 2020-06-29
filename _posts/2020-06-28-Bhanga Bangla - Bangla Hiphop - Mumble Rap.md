@@ -80,19 +80,30 @@ I thought in this case, I'll go through some of their songs and will try to expl
 
 
 সমস্যা নাই
+transliteration: somossa naai
+translation: No problem
 
 ঝামালা নাই 
-
+transliteration: jhamala naai
+translation: No worries
 
 
 ঝামালা নাই
-
+transliteration: jhamala naai
+translation: No worries
 
 
 আমাদের মুখে তো হাসি
 
-টাকাটা সুন্দর লাগে হাবিব * 
-
+টাকাটা সুন্দর লাগে হাবিব 
+transliteration: 
+amader mukhe to haasi
+taka ta sundor lage habib
+translation:
+We have smiles on our faces.
+Money is pretty like Habib.
+Explanation:
+Despite poverty and struggle we are extremely happy and cheerful bunch of people.
 
 
 আমরা খাই রুটি আর ভাজি
