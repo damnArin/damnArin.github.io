@@ -206,7 +206,29 @@ Nothing much.
 
 এখানে আন্টিরা পান খায় 
 
+transliteration: 
+
+ekhane auntie ra paan khay
+
+translation: 
+
+Ladies here eat paan.
+
+Explanation:
+
+He's again talking about his own folks. The Indian subcontinent people traditionally consume tobacco with Paan. Before British people came, paan was the way of consuming tobacco with Jorda. (Not to be confused with Jorda rice.)
+
+
 বাংলাদেশ থেকে তো মুম্বাই 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
+Draws a boundary of Indian subcontinent from East to West.
+
 
 যেফের এর মতো তো গান গাই 
 
