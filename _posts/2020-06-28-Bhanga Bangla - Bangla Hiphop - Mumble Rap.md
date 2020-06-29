@@ -232,17 +232,35 @@ Draws a boundary of Indian subcontinent from East to West.
 
 যেফের এর মতো তো গান গাই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
+
 
 
 কথাটা কম, তুমি কে? কে? 
 
 কথাটা কম, তুমি কে? কে? 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 আমরা তো রাতে তো নাচছি
 
 শিশা আর গাঞ্জা তো খাচ্ছি 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -250,11 +268,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 আমার মেয়ের বিয়ে তো চাই
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ওর আব্বু তো এমবিএ তো চাই 
 
 আমার তো এমবিএ নাই 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -262,17 +292,35 @@ Draws a boundary of Indian subcontinent from East to West.
 
 নিচে নাম মুখে নাও কলা 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 সমস্যা নাই
 
 সমস্যা নাই আই আই আই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 সমস্যা নাই
 
 সমস্যা নাই
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -280,12 +328,24 @@ Draws a boundary of Indian subcontinent from East to West.
 
 ঝামালা নাই আই আই আই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 সমস্যা নাই
 
 সমস্যা নাই আই আই আই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ঝামালা নাই ঝামালা নাই
@@ -293,12 +353,24 @@ Draws a boundary of Indian subcontinent from East to West.
 ঝামালা নাই ঝামালা নাই
 
 ঝামালা নাই ঝামালা নাই
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
 ঝামালা আমার তো নাই 
 
 ত্র মাইয়া তো আমাকে চায়
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -307,10 +379,22 @@ Draws a boundary of Indian subcontinent from East to West.
 বাঁড়া তো বাজে তো পায় * (পায়)
 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 আমার তো ধৈর্য নাই (নাই) 
 
 স্টুপিডেরা মাংস তো খায় (খায়) 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -318,11 +402,22 @@ Draws a boundary of Indian subcontinent from East to West.
 
 আমি কি বলছি তরে, নায়? (বলসি)
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 এরকম করে খেলে তোমরা সবাই মরে যাবা (ইয়া বা)
 
 মাংস ছেড়ে ফেলে তোমরা সবাই জিতে যাবা (যাবা) 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -330,11 +425,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 সকালে বিকালে দুপুরে ((দুপুরে))
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 মাইয়া তো ভিজা লাইক পুকুরে (প্ররর)
 
 দিব তো পিছে লাইক কুকুরে (উউহ)
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -342,11 +449,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 ভাঙ্গা, ভাঙ্গা বাঙলা (বাঙলা) 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 রেস্ট ইন পিস, রেস্ট ইন পিস
 
 মিনহাজ মিনহাজ (ভাইয়া) 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -354,17 +473,35 @@ Draws a boundary of Indian subcontinent from East to West.
 
 গান বাজনায় আমি এখানে অনেক বানাই টাকা 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 সমস্যা নাই
 
 সমস্যা নাই আই আই আই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 সমস্যা নাই
 
 সমস্যা নাই আই আই আই 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -374,9 +511,21 @@ Draws a boundary of Indian subcontinent from East to West.
 
 ঝামালা নাই আই আই আই 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ঝামালা নাই ঝামালা নাই
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -384,11 +533,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 আমরা তো গাঁজা খাই ভাই (ভাই))
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 আকাশে আকাশে (উউহ)
 
 আমরা তো দুবাই তে যাই (যাই)
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -396,11 +557,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 বাসা তোর পানির পাশে (উউহ)
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ওদেরকে ডুবাইতে চাই (উউহ)
 
 ওদের তো বোধ ই তো নাই (উউহ)
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -408,17 +581,34 @@ Draws a boundary of Indian subcontinent from East to West.
 
 "where's the party" (huhhh) 
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 ছয় ফিট নিচে মাটির রাখি (ওদের বডি)
 
 ইয়ং শারুখ খান, সাল্মান খান
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ব্রাউন বেঙ্গালি (ব্রাউন বেঙ্গালি)
 
 আইশার‍্যা রাই, সুন্দর শাড়ি, লাল পাঞ্জাবি। 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -428,11 +618,23 @@ Draws a boundary of Indian subcontinent from East to West.
 
 কোথাও যাই, বন্দুক আনি
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 ঝামেলা ঝামেলা চাই না
 
 ক্লের তো পানি তো খাই না (খাই না)
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -440,9 +642,21 @@ Draws a boundary of Indian subcontinent from East to West.
 
 অ্যাল্কালাইন পানি ফ্রম থাইল্যান্ড (উউহ)
 
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
+
 
 
 বাংলাদেশ টাইগার্স, নো লায়ন্স (ইয়িই)
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
 
 
@@ -455,4 +669,10 @@ Draws a boundary of Indian subcontinent from East to West.
 ঝামালা নাই ঝামালা নাই
 
 ঝামালা নাই আই আই আই 
+
+transliteration: Bangladesh theke to Mumbai
+
+translation: From Bangladesh to Mumbai
+
+Explanation:
 
