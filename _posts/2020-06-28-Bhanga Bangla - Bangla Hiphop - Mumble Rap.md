@@ -177,7 +177,7 @@ translation:
 
 You guys are angry with us, mad at us
 
-We eat lemons and leafy veggies.
+We eat lemons and leafy veggies. They mentioned spinach in their translation.
 
 Explanation:
 
