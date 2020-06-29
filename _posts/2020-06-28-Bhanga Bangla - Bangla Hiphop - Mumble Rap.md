@@ -586,27 +586,33 @@ Explanation:
 He's numb in pain. Pain is ruthless. And that makes his neck numb. Think of a cold revolver pipe touching your neck. It will feel cold. At the same time you'll feel scared and numb.
 
 
-মাইয়া তো ভিজা লাইক পুকুরে (প্ররর)
+মাইয়া তোর ভিজা লাইক পুকুর - এহ (প্ররর)
 
-দিব তো পিছে লাইক কুকুরে (উউহ)
+দিব তো পিছে লাইক কুকুর - এহ (উউহ)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Maiya tor bhija, like pukur - eh (prrr)
+
+dibo to pichhe, like kukur - eh (uuh)
+
+translation:
+
+your girl is wet, like a pond
+
+Will give it to her, like a dog 
 
 Explanation:
 
-
+Random badmouthing to enemy. 
 
 ৪১, ৪১, ৪১, এক্স 
 
 ভাঙ্গা, ভাঙ্গা বাঙলা (বাঙলা) 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
-
-Explanation:
+41, 41, 41 X
 
 
 
@@ -614,11 +620,13 @@ Explanation:
 
 মিনহাজ মিনহাজ (ভাইয়া) 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Rest in peace, Rest in peace
 
-Explanation:
+Minhaj Minhaj (bhaiya)
+
+Explanation: In memory of bhaiya (brother) Minhaj who died due to plane crash on the way to NY from BD.
 
 
 
@@ -626,23 +634,18 @@ Explanation:
 
 গান বাজনায় আমি এখানে অনেক বানাই টাকা 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+akashe ghumay to baba (baba)
 
-Explanation:
+gaan bajnay ami ekhane onek banai (taka)
 
+translation: 
 
+(My) father sleeps in the sky (father)
 
-সমস্যা নাই
+I make a lot of money here in music (money)
 
-সমস্যা নাই আই আই আই 
-
-transliteration: Bangladesh theke to Mumbai
-
-translation: From Bangladesh to Mumbai
-
-Explanation:
 
 
 
@@ -650,11 +653,23 @@ Explanation:
 
 সমস্যা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+somossa nai
 
-Explanation:
+somossa nai aai aai aai 
+
+
+
+সমস্যা নাই
+
+সমস্যা নাই আই আই আই 
+
+transliteration: 
+
+somossa nai
+
+somossa nai aai aai aai 
 
 
 
