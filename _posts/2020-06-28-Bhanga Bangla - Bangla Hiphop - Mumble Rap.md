@@ -157,7 +157,16 @@ He's behaving like a frustrated person. At one moment, he thinks the women are a
 
 আমরা খাই লেবু আর শাক 
 
+transliteration: 
+tomader mukhe to rag (rag)
+amra khai lebu aar shak (shak)
 
+translation:
+You guys are angry with us, mad at us
+We eat lemons and leafy veggies.
+
+Explanation:
+The rapper mentions about racism and veganism for the first time in this song. 
 
 আমার মেয়ের শাড়িটা লাল
 
