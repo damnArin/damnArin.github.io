@@ -79,6 +79,8 @@ Surprisingly, I didn't spot any serious discussion on their creations online. Mo
 I thought in this case, I'll go through some of their songs and will try to explain the way I understood them line by line. As of now, I've just penned down the lyrics of the song that I liked most. It's something difficult given it's mumble and their Bangla is actually, in the true sense of the word, 'Bhanga'. So, takes some time to understand what actually they meant and sometimes I have to look up to the English translation to get it. 
 
 
+<h3>Verse of Ivory Shakur - </h3>
+
 সমস্যা নাই
 
 transliteration: somossa naai
@@ -380,11 +382,12 @@ somossa naai aai aai aai
 
 translation: 
 
-No worries
+No problem
 
-No worries ...
+No problem ...
 
 Explanation:
+
 Nada.
 
 
@@ -392,45 +395,82 @@ Nada.
 
 ঝামালা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+jhamala naai
+
+jhamala naai aai aai aai 
+
+translation: 
+
+no worries
+
+no worries ...
 
 Explanation:
-
+ 
+Nada.
 
 
 সমস্যা নাই
 
 সমস্যা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+somossa naai
+
+somossa naai aai aai aai 
+
+translation: 
+
+no problem
+
+no problem ...
+
+Explanation:
+ 
+Nada.
+
+
+
+ঝামালা নাই ঝামালা নাই
+
+ঝামালা নাই ঝামালা নাই
+
+ঝামালা নাই ঝামালা নাই
+
+transliteration: 
+
+jhamala naai jhamala naai
+
+jhamala naai jhamala naai
+
+jhamala naai jhamala naai
+
+translation: 
+
+no worries no worries
+
+no worries no worries
+
+no worries no worries
 
 Explanation:
 
+NA
 
 
-ঝামালা নাই ঝামালা নাই
 
-ঝামালা নাই ঝামালা নাই
-
-ঝামালা নাই ঝামালা নাই
-
-transliteration: Bangladesh theke to Mumbai
-
-translation: From Bangladesh to Mumbai
-
-Explanation:
-
-
+<h3> Verse of 41X - </h3>
 
 ঝামালা আমার তো নাই 
 
 ত্র মাইয়া তো আমাকে চায়
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
+
+
 
 translation: From Bangladesh to Mumbai
 
