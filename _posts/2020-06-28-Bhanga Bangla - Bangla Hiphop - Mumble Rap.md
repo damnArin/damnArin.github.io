@@ -80,15 +80,18 @@ I thought in this case, I'll go through some of their songs and will try to expl
 
 
 সমস্যা নাই
+
 transliteration: somossa naai
 translation: No problem
 
 ঝামালা নাই 
+
 transliteration: jhamala naai
 translation: No worries
 
 
 ঝামালা নাই
+
 transliteration: jhamala naai
 translation: No worries
 
@@ -96,6 +99,7 @@ translation: No worries
 আমাদের মুখে তো হাসি
 
 টাকাটা সুন্দর লাগে হাবিব 
+
 transliteration: 
 amader mukhe to haasi
 taka ta sundor lage habib
@@ -103,26 +107,51 @@ translation:
 We have smiles on our faces.
 Money is pretty like Habib.
 Explanation:
-Despite poverty and struggle we are extremely happy and cheerful bunch of people.
+Despite poverty and struggle we are extremely happy and cheerful bunch of people. I'm yet to figure out the connection between money & Habib.
 
 
 আমরা খাই রুটি আর ভাজি
 
 আমার সব ভাইয়েরা পাজি
 
+transliteration: 
+amra khai ruti aar bhaji
+amar sob bhai era paji
+translation: 
+We eat flatbread with stir fry (popular Bengali breakfast)
+All my brothers are hooligans (keep away from us)
+explanation: 
+This first verse slowly introduces the kind of background the rapper comes from.
 
+তোমাদের মাইয়ারা মাগি
 
-তোমাদের মায়েরা মাগি
+তোমাদের মাইয়ারা মাগি
 
-তোমাদের মায়েরা মাগি
+transliteration:
+tomader maiya ra maagi
+tomader maiya ra maagi
 
+translation: 
+Your women are hoes
+Your women are hoes
 
+explanation:
+Nothing much. Just plain badmouthing the enemy, whosoever he considers as enemy.
 
-চল না ঘোরে চাবি * 
+চল না হাতে তো চাবি 
 
-চুল ভরা বাঙলা টেকাশি
+চুল পুরা বাঙলা টেকাশি
 
+transliteration: 
+cholo na haate to chabi
+chul pura Bangla Tekashi
 
+translation:
+Let's go (to a room, you hoe), I have keys in my hand
+Colored hair like Tekashi, I am Bangla Tekashi
+
+Explanation: 
+He's behaving like a frustrated person. At one moment, he thinks the women are are hoes here. But at the same moment he asks those same women to have sex with him. Tekashi is a famous rapper with multi-colored hair.
 
 তোমাদের মুখে তো রাগ রাগ
 
