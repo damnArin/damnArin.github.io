@@ -679,45 +679,63 @@ somossa nai aai aai aai
 
 ঝামালা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: somossa nai
 
-translation: From Bangladesh to Mumbai
+jhamala nai jhamala nai
 
-Explanation:
+jhamala nai aai aai aai 
 
 
 
 ঝামালা নাই ঝামালা নাই
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
-
-Explanation:
+jhamala nai jhamala nai
 
 
+<h1>verse of Young Prince</h1>
 
 ঝামালা নাই
 
 আমরা তো গাঁজা খাই ভাই (ভাই))
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Somossa nai
+
+amra to ganja khai bhai.
+
+translation: 
+
+No worries.
+
+We are weed addicts. 
 
 Explanation:
 
+We started to forget all the problems once we started smoking weed.
 
 
 আকাশে আকাশে (উউহ)
 
 আমরা তো দুবাই তে যাই (যাই)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+akashe akashe (uuh)
+
+amra to Dubai to jai (jai)
+
+translation: 
+
+In the sky (uuh)
+
+As if we travel to Dubai (Go)
 
 Explanation:
+
+We are so high as if we travel to Dubai every other day. 
 
 
 
