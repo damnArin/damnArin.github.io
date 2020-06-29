@@ -372,12 +372,20 @@ Nada.
 
 সমস্যা নাই
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+somossa naai
+
+somossa naai aai aai aai
+
+translation: 
+
+No worries
+
+No worries ...
 
 Explanation:
-
+Nada.
 
 
 ঝামালা নাই ঝামালা নাই
