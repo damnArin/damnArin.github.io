@@ -470,25 +470,38 @@ NA
 
 transliteration: 
 
+jhamala amar to naai
 
+tor maiya to amake chaay
 
-translation: From Bangladesh to Mumbai
+translation: 
+
+I don't have any worries.
+
+Your girl wants me.
 
 Explanation:
 
+Nothing deep, badmouthing enemy. 
 
 
 বন্দুক আর গুলি তো আছে তো (ব্রাআহ)
 
 বাঁড়া তো বাজে তো পায় * (পায়)
 
+transliteration: 
 
-transliteration: Bangladesh theke to Mumbai
+bonduk aar guli to achhe to (brrh)
 
-translation: From Bangladesh to Mumbai
+
+
+translation: 
+
+guns and ammo all on me
 
 Explanation:
 
+Simple bragging. 
 
 আমার তো ধৈর্য নাই (নাই) 
 
