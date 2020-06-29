@@ -794,31 +794,40 @@ all these fuckboys always asking
 
 Explanation:
 
-The usual clash between the conservative usual Indian subcontinent values and the American culture. The teenager friends a kid in an immigrant family will have will behave very differently than 
+The usual clash between the conservative usual Indian subcontinent values and the American culture. The teenager friends a kid in an immigrant family will have, will behave very differently than themselves and if they immigrant ones are in poverty, they just can't decide which way to grow up to.
 
 
 ছয় ফিট নিচে মাটির রাখি (ওদের বডি)
 
 ইয়ং শারুখ খান, সাল্মান খান
 
-transliteration: Bangladesh theke to Mumbai
-
-translation: From Bangladesh to Mumbai
-
-Explanation:
-
-
-
 ব্রাউন বেঙ্গালি (ব্রাউন বেঙ্গালি)
 
 আইশার‍্যা রাই, সুন্দর শাড়ি, লাল পাঞ্জাবি। 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Chhoy feet niche matir rakhi (oder body)
+
+(amra) Young Shah Rukh Khan, Salman Khan 
+
+Brown Bengali (brown bengali)
+
+Aisharya Rai, Sundor Shari, Laal Panjabi
+
+translation: 
+
+We put six feet down the ground (their bodies)
+
+(we are) young Shah Rukh Khan, Salman Khan
+
+Brown Bengali, (Brown Bengali)
+
+Aisharya Rai, beautiful sari, red panjabi
 
 Explanation:
 
+What do we even lack? We have Shah Rukh Khan, Salman Khan, Aisharya Rai etc. We also have beautiful clothes. Why do we even think ourselves as small? 
 
 
 লাল বুগাটি, ল্যাম্বরগিনি, ফেরারি গাড়ি 
@@ -827,24 +836,44 @@ Explanation:
 
 কোথাও যাই, বন্দুক আনি
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+laal Bugati, Lamborghini, Ferrari gaari
+
+boro baari
+
+kothao jaai, bonduk aani
+
+translation: 
+
+Red Bugati, Lamborghini, Ferrari car
+
+I go anywhere, I carry guns
 
 Explanation:
 
+Continuing from previous para, it just means don't think yourself small.
 
 
 ঝামেলা ঝামেলা চাই না
 
 ক্লের তো পানি তো খাই না (খাই না)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Jhamela Jhamela chai naa
+
+Koler to paani to khai na (khai na)
+
+translation: 
+
+I don't want any nuissance.
+
+I don't drink tap water. ( I don't)
 
 Explanation:
 
+I am not an anybody. I am someone special. I don't mind general people and their thoughts (tap water). 
 
 
 আমাদের মেয়ে তো finer
