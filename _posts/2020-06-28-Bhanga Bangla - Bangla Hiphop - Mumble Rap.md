@@ -503,51 +503,87 @@ Explanation:
 
 Simple bragging. 
 
+
 আমার তো ধৈর্য নাই (নাই) 
 
 স্টুপিডেরা মাংস তো খায় (খায়) 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+amar to dhoirjo naai (naai)
+
+stupid era mangsho to khaay (khaay)
+
+translation: 
+
+I don't have any patience. (none)
+
+Stupid people eat meat. (eat)
 
 Explanation:
 
+They promote the idea of being vegan. Killing an animal for food is bad according to them and they act like people who eat meat are stupid. I disagree with them in this regard, but that's okay. 
 
-
-ঘুসিটায় মরে তো যায় (গুষ্টি)
+গুষ্টিটা মরে তো যায় (গুষ্টি)
 
 আমি কি বলছি তরে, নায়? (বলসি)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+gusti ta more to jaay (gusti)
+
+ami ki bolsi tore, naay (bolsi)
+
+translation: 
+
+Your people will die (people)
+
+Didn't I tell you? (I did)
 
 Explanation:
 
+He's saying people who are not vegan will die and he's warning everyone multiple times.
 
 এরকম করে খেলে তোমরা সবাই মরে যাবা (ইয়া বা)
 
 মাংস ছেড়ে ফেলে তোমরা সবাই জিতে যাবা (যাবা) 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+erom kore khele amra sobai more jabo (ya ba)
+
+mangsho chhere fele amra sobai jite jaba (jaba)
+
+translation: 
+
+We will all die if this kind of food habit persists. 
+
+(but) we can live if we leave meat eating. 
 
 Explanation:
 
+NA
 
 
-বরফে গলাটার উপরে (উপরে)
+বরফ গলাটার উপরে (উপরে)
 
 সকালে বিকালে দুপুরে ((দুপুরে))
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+Borof gola tar upore (upore)
+
+sokale bikale dupure (dupure)
+
+translation: 
+
+Ice on my neck (on my neck)
+
+In the morning, in the afternoon, during the noon (noon)
 
 Explanation:
 
+He's numb in pain. Pain is ruthless. And that makes his neck numb. Think of a cold revolver pipe touching your neck. It will feel cold. At the same time you'll feel scared and numb.
 
 
 মাইয়া তো ভিজা লাইক পুকুরে (প্ররর)
