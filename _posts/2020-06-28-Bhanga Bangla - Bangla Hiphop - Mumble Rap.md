@@ -743,23 +743,35 @@ We are so high as if we travel to Dubai every other day.
 
 বাসা তোর পানির পাশে (উউহ)
 
-transliteration: Bangladesh theke to Mumbai
-
-translation: From Bangladesh to Mumbai
-
-Explanation:
-
-
-
 ওদেরকে ডুবাইতে চাই (উউহ)
+
+transliteration: 
+
+nachite nachite uuh (uuh)
+
+basa tor paanir pashe (uuh)
+
+oder ke dubai te chai (uuh)
+
+translation: 
+
+dancing dancing uuh (uuh)
+
+your place is beside the water(body) (uuh)
+
+I want to drown them there (uuh)
+
+
 
 ওদের তো বোধ ই তো নাই (উউহ)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+oder to bodh i to naai (uuh)
 
-Explanation:
+translation: 
+
+They got no common sense (uuh)
 
 
 
@@ -767,11 +779,22 @@ Explanation:
 
 "where's the party" (huhhh) 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+ora faazil khali bole 
+
+"where's the party" (huhhh) 
+
+translation: 
+
+all these fuckboys always asking 
+
+"where's the party" (huhhh) 
+
 
 Explanation:
+
+The usual clash between the conservative usual Indian subcontinent values and the American culture. The teenager friends a kid in an immigrant family will have will behave very differently than 
 
 
 ছয় ফিট নিচে মাটির রাখি (ওদের বডি)
