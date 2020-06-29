@@ -880,37 +880,59 @@ I am not an anybody. I am someone special. I don't mind general people and their
 
 অ্যাল্কালাইন পানি ফ্রম থাইল্যান্ড (উউহ)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+amader meye to finer
+
+Alkaline water from Thailand
+
+translation: 
+
+Our women are finer. 
+
+Alkaline water from Thailand
 
 Explanation:
 
-
+Continuation of previous para. We are so special we import alkaline water from Thailand and drink that in stead of regular tap water. 
 
 বাংলাদেশ টাইগার্স, নো লায়ন্স (ইয়িই)
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
-
-Explanation:
+Bangladesh tigers, no lions (yeee)
 
 
 
-
-
-সমস্যা নাই
+সমস্যা নাই (সমস্যা নাই)
 
 সমস্যা নাই আই আই আই 
 
-ঝামালা নাই ঝামালা নাই
+সমস্যা নাই (সমস্যা নাই)
+
+
+সমস্যা নাই ঝামালা নাই
+
+ঝামালা নাই (ঝামালা নাই)
+
 
 ঝামালা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+ঝামালা নাই (ঝামালা নাই)
 
-translation: From Bangladesh to Mumbai
+ঝামালা নাই (ঝামালা নাই)
 
-Explanation:
+
+transliteration: 
+
+somossa nai (somossa nai)
+
+somossa nai ai ai ai
+
+somossa nai (somossa nai)
+
+
+translation: 
+
+No problem no worries (multiple times)
 
