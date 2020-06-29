@@ -185,9 +185,16 @@ The rapper mentions about racism and veganism for the first time in this song.
 
 আমার মেয়ের শাড়িটা লাল
 
+transliteration: amar meyer shari ta laal
+
+translation: my girl wears a red sari
+
+Explanation:
+
+Nothing much. 
+
+
 এখানে আন্টিরা পান খায় 
-
-
 
 বাংলাদেশ থেকে তো মুম্বাই 
 
