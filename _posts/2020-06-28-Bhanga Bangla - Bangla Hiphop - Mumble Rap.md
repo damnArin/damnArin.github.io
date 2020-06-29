@@ -694,7 +694,7 @@ transliteration:
 jhamala nai jhamala nai
 
 
-<h1>verse of Young Prince</h1>
+<h1>Verse of Young Prince</h1>
 
 ঝামালা নাই
 
