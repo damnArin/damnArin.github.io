@@ -128,12 +128,17 @@ This first verse slowly introduces the kind of background the rapper comes from.
 তোমাদের মাইয়ারা মাগি
 
 transliteration:
+
 tomader maiya ra maagi
+
 tomader maiya ra maagi
 
 translation: 
+
 Your women are hoes
+
 Your women are hoes
+
 
 explanation:
 Nothing much. Just plain badmouthing the enemy, whosoever he considers as enemy.
@@ -143,14 +148,19 @@ Nothing much. Just plain badmouthing the enemy, whosoever he considers as enemy.
 চুল পুরা বাঙলা টেকাশি
 
 transliteration: 
+
 cholo na haate to chabi
+
 chul pura Bangla Tekashi
 
 translation:
+
 Let's go (to a room, you hoe), I have keys in my hand
+
 Colored hair like Tekashi, I am Bangla Tekashi
 
 Explanation: 
+
 He's behaving like a frustrated person. At one moment, he thinks the women are are hoes here. But at the same moment he asks those same women to have sex with him. Tekashi is a famous rapper with multi-colored hair.
 
 তোমাদের মুখে তো রাগ রাগ
@@ -158,14 +168,19 @@ He's behaving like a frustrated person. At one moment, he thinks the women are a
 আমরা খাই লেবু আর শাক 
 
 transliteration: 
+
 tomader mukhe to rag (rag)
+
 amra khai lebu aar shak (shak)
 
 translation:
+
 You guys are angry with us, mad at us
+
 We eat lemons and leafy veggies.
 
 Explanation:
+
 The rapper mentions about racism and veganism for the first time in this song. 
 
 আমার মেয়ের শাড়িটা লাল
