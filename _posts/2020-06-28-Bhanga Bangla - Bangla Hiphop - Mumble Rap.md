@@ -328,11 +328,23 @@ The brown households have a lot of say in marriages of their children. Indian & 
 
 নিচে নাম মুখে নাও কলা 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+buddhi aar taka ta lomba
+
+neeche naam mukhe naao kola
+
+translation: 
+
+intellect and money too long
+
+get down and take banana in your mouth
 
 Explanation:
+
+Intellect and money too long (for me, for I am a dumbo.)
+
+(I don't want to think about this any further, so get the fuck outta here. Let's stop this discussion.)
 
 
 
@@ -340,12 +352,20 @@ Explanation:
 
 সমস্যা নাই আই আই আই 
 
-transliteration: Bangladesh theke to Mumbai
+transliteration: 
 
-translation: From Bangladesh to Mumbai
+somossa naai
+
+somossa naai aai aai aai
+
+translation: 
+
+No worries
+
+No worries ...
 
 Explanation:
-
+Nada.
 
 
 সমস্যা নাই
