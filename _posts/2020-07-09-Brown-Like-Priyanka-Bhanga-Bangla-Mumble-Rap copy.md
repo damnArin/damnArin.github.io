@@ -1,7 +1,6 @@
 ---
 layout: post
 comments: true
-title: "Brown Like Priyanka"
 date: 2020-07-09
 ---
 
