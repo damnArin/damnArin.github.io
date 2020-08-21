@@ -86,4 +86,4 @@ I love you
 I love you
 
 
-### This song was used in *Better Call Saul*, S04E07, by the same name 'Something Stupid'. Listen to it here [in Youtube](https://www.youtube.com/watch?v=zEUTR2EEEtc)
+### This song was used in *Better Call Saul*, S04E07, by the same name 'Something Stupid'. Listen to it here [in Youtube](https://www.youtube.com/watch?v=DdOQUdBlpxA)
